@@ -479,7 +479,7 @@ ru:
   label_content_information: "%{value} информация"
   label_website: Веб-сайт
   label_department: Подразделение
-  label_assigned: Assigned
+  label_assigned: Назначено
   label_in_process: В работе
   label_converted: Конвертирован
   label_recycled: Recycled
